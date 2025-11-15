@@ -1,1 +1,0 @@
-package resume; public class DataScientist extends JobRole {}

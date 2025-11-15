@@ -1,1 +1,0 @@
-package fleet; public class Bike extends Vehicle {}

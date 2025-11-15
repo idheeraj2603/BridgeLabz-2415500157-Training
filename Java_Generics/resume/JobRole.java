@@ -1,1 +1,0 @@
-package resume; public abstract class JobRole {}

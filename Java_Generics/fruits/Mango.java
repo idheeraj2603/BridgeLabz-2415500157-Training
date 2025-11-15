@@ -1,1 +1,0 @@
-package fruits; public class Mango extends Fruit {}
